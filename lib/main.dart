@@ -13,6 +13,7 @@ class Quizzler extends StatelessWidget {
             padding: EdgeInsets.symmetric(horizontal: 10.0),
             child: QuizPage(),
           ),
+          
         ),
       ),
     );
