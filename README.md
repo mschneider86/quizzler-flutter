@@ -6,7 +6,7 @@
 A Simple quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
 <p align='center'>
-<img src='https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif' alt='Finished App' />
+<img src='https://github.com/mschneider86/quizzler-flutter/blob/master/images/quizzler-demo.gif' alt='Finished App' />
   </p>
 
 ## Topics Covered
